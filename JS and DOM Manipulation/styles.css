@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    border: 2px black solid;
+    font: 12px sans-serif;
+}
+
+th {
+    border: 1px black solid;
+    padding: 5px;
+}
+body {
+    background-color: rgba(1, 5, 253, 0.897);
+}
+
+div#wrap{
+    background-color: rgba(1, 5, 253, 0.897;
+}
